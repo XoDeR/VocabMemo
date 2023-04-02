@@ -1,0 +1,2 @@
+# VocabMemo
+Vocabulary memorization app
