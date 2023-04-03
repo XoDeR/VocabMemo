@@ -264,153 +264,209 @@ const getWordList = () => {
     ["bus", ""],
     ["buurt", ""],
 
-    ["café
-    ["categorie
-    ["cel
-    ["centraal
-    ["centrum
-    ["chauffeur
-    ["christelijk
-    ["cliënt
-    ["collega
-    ["combinatie
-    ["commissaris
-    ["commissie
-    ["communicatie
-    ["computer
-    ["conclusie
-    ["concreet
-    ["conflict
-    ["consequentie
-    ["constateren
-    ["contact
-    ["controle
-    ["controleren
-    ["crisis
-    ["cultureel
-    ["cultuur
+    ["café", ""],
+    ["categorie", ""],
+    ["cel", ""],
+    ["centraal", ""],
+    ["centrum", ""],
+    ["chauffeur", ""],
+    ["christelijk", ""],
+    ["cliënt", ""],
+    ["collega", ""],
+    ["combinatie", ""],
+    ["commissaris", ""],
+    ["commissie", ""],
+    ["communicatie", ""],
+    ["computer", ""],
+    ["conclusie", ""],
+    ["concreet", ""],
+    ["conflict", ""],
+    ["consequentie", ""],
+    ["constateren", ""],
+    ["contact", ""],
+    ["controle", ""],
+    ["controleren", ""],
+    ["crisis", ""],
+    ["cultureel", ""],
+    ["cultuur", ""],
 
-    daad
-    daar
-    daarentegen
-    daarna
-    daarom
-    daarop
-    dadelijk
-    dag
-    dagelijks
-    dak
-    dalen
-    dame
-    dan
-    dank
-    danken
-    dansen
-    dat
-    december
-    deel
-    definitief
-    degelijk
-    degene
-    deken
-    delen
-    democratie
-    den
-    denken
-    derde
-    dertig
-    detail
-    deur
-    deze
-    dezelfde
-    dicht
-    dichtbij
-    dichter
-    dienen
-    dienst
-    diep
-    dier
-    dik
-    dikwijls
-    ding
-    direct
-    directeur
-    discussie
-    dit
-    divers
-    doch
-    dochter
-    dode
-    doden
-    doel
-    doelstelling
-    doen
-    dokter
-    dollar
-    dom
-    donker
-    dood
-    door
-    doordat
-    doordringen
-    doorgaan
-    doos
-    dorp
-    draaien
-    dragen
-    drank
-    dreigen
-    drie
-    drijven - dringen - drinken - drinken - dromen - droog - droom - druk - druk - drukken - dubbel - duidelijk - duiken - duivel - dun - duren - durven - dus - duur - duur - duwen - dwars - dwingen -
+    ["daad", ""],
+    ["daar", ""],
+    ["daarentegen", ""],
+    ["daarna", ""],
+    ["daarom", ""],
+    ["daarop", ""],
+    ["dadelijk", ""],
+    ["dag", ""],
+    ["dagelijks", ""],
+    ["dak", ""],
+    ["dalen", ""],
+    ["dame", ""],
+    ["dan", ""],
+    ["dank", ""],
+    ["danken", ""],
+    ["dansen", ""],
+    ["dat", ""],
+    ["december", ""],
+    ["deel", ""],
+    ["definitief", ""],
+    ["degelijk", ""],
+    ["degene", ""],
+    ["deken", ""],
+    ["delen", ""],
+    ["democratie", ""],
+    ["den", ""],
+    ["denken", ""],
+    ["derde", ""],
+    ["dertig", ""],
+    ["detail", ""],
+    ["deur", ""],
+    ["deze", ""],
+    ["dezelfde", ""],
+    ["dicht", ""],
+    ["dichtbij", ""],
+    ["dichter", ""],
+    ["dienen", ""],
+    ["dienst", ""],
+    ["diep", ""],
+    ["dier", ""],
+    ["dik", ""],
+    ["dikwijls", ""],
+    ["ding", ""],
+    ["direct", ""],
+    ["directeur", ""],
+    ["discussie", ""],
+    ["dit", ""],
+    ["divers", ""],
+    ["doch", ""],
+    ["dochter", ""],
+    ["dode", ""],
+    ["doden", ""],
+    ["doel", ""],
+    ["doelstellin", ""],g
+    ["doen", ""],
+    ["dokter", ""],
+    ["dollar", ""],
+    ["dom", ""],
+    ["donker", ""],
+    ["dood", ""],
+    ["door", ""],
+    ["doordat", ""],
+    ["doordringen", ""],
+    ["doorgaan", ""],
+    ["doos", ""],
+    ["dorp", ""],
+    ["draaien", ""],
+    ["dragen", ""],
+    ["drank", ""],
+    ["dreigen", ""],
+    ["drie", ""],
+    ["drijven", ""],
+    ["dringen", ""],
+    ["drinken", ""],
+    ["dromen", ""],
+    ["droog", ""],
+    ["droom", ""],
+    ["druk", ""],
+    ["drukken", ""],
+    ["dubbel", ""],
+    ["duidelijk", ""],
+    ["duiken", ""],
+    ["duivel", ""],
+    ["dun", ""],
+    ["duren", ""],
+    ["durven", ""],
+    ["dus", ""],
+    ["duur", ""],
+    ["duwen", ""],
+    ["dwars", ""],
+    ["dwingen", ""],
 
-    echt
-    echter
-    echtgenoot
-    economie
-    economisch
-    eenheid
-    eenmaal
-    eens
-    eenvoudig
-    eenzaam
-    eer
-    eerder
-    eerlijk
-    eerst
-    eerste
-    eeuw
-    eeuwig
-    effect
-    ei
-    eigen
-    eigenaar
-    eigenlijk
-    eigenschap - eiland - eind - eindelijk - eindeloos - eindigen - eis - eisen - elders - element - elk - elkaar - emotie - emotioneel - en - energie - enerzijds - Engels - enig - enig - enigszins - enkel - enorm - enz. - er - erbij - erg - ergens - erkennen - ernstig - erop - ervaren - ervaring - eten - eten - even - evenals - eveneens - evenmin - eventueel - evenwel - evenwicht - experiment - extra -
+    ["echt", ""],
+    ["echter", ""],
+    ["echtgenoot", ""],
+    ["economie", ""],
+    ["economisch", ""],
+    ["eenheid", ""],
+    ["eenmaal", ""],
+    ["eens", ""],
+    ["eenvoudig", ""],
+    ["eenzaam", ""],
+    ["eer", ""],
+    ["eerder", ""],
+    ["eerlijk", ""],
+    ["eerst", ""],
+    ["eerste", ""],
+    ["eeuw", ""],
+    ["eeuwig", ""],
+    ["effect", ""],
+    ["ei", ""],
+    ["eigen", ""],
+    ["eigenaar", ""],
+    ["eigenlijk", ""],
+    ["eigenschap", ""],
+    ["eiland", ""],
+    ["eind", ""],
+    ["eindelijk", ""],
+    ["eindeloos", ""],
+    ["eindigen", ""],
+    ["eis", ""],
+    ["eisen", ""],
+    ["elders", ""],
+    ["element", ""],
+    ["elk", ""],
+    ["elkaar", ""],
+    ["emotie", ""],
+    ["emotioneel", ""],
+    ["energie", ""],
+    ["enerzijds", ""],
+    ["enig", ""],
+    ["enigszins", ""],
+    ["enkel", ""],
+    ["enorm", ""],
+    ["erbij", ""],
+    ["erg", ""],
+    ["ergens", ""],
+    ["erkennen", ""],
+    ["ernstig", ""],
+    ["erop", ""],
+    ["ervaren", ""],
+    ["ervaring", ""],
+    ["eten", ""],
+    ["even", ""],
+    ["evenals", ""],
+    ["eveneens", ""],
+    ["evenmin", ""],
+    ["eventueel", ""],
+    ["evenwel", ""],
+    ["evenwicht", ""],
+    ["experiment", ""],
+    ["extra", ""],
 
-    fabriek
-    factor
-    familie
-    fase
-    feest
-    feit
-    feitelijk
-    fel
-    fiets
-    figuur
-    fijn
-    film
-    filosofie
-    financieel
-    fles
-    flink
-    fluisteren
-    formuleren
-    foto
-    fout
-    fraai
-    functie
-    functioneren
-    fundamenteel
+    ["fabriek", ""],
+    ["factor", ""],
+    ["familie", ""],
+    ["fase", ""],
+    ["feest", ""],
+    ["feit", ""],
+    ["feitelijk", ""],
+    ["fel", ""],
+    ["fiets", ""],
+    ["figuur", ""],
+    ["fijn", ""],
+    ["film", ""],
+    ["filosofie", ""],
+    ["financieel", ""],
+    ["fles", ""],
+    ["flink", ""],
+    ["fluisteren", ""],
+    ["formuleren", ""],
+    ["foto", ""],
+    ["fout", ""],
+    ["fraai", ""],
+    ["functie", ""],
+    ["functioneren", ""],
+    ["fundamenteel", ""],
 
     gaan
     gang
@@ -435,7 +491,106 @@ const getWordList = () => {
     gedicht
     gedrag
     gedragen
-    gedurende - geef - geel - geen - geest - geestelijk - geestelijke - gegeven - gegeven - geheel - geheel - geheim - geheim - geheugen - gehouden - gek - geld - gelden - geleden - geleerd - gelegen - gelegenheid - geleidelijk - gelijk - gelijk - geloof - geloven - geluid - geluk - gelukkig - gemak - gemakkelijk - gemeen - gemeenschap - gemeenschappelijk - gemeente - generaal - generatie - genezen - genieten - genoeg - gering - geschieden - geschiedenis - gesloten - gesprek - gestalte - gesteld - geur - gevaar - gevaarlijk - geval - gevangenis - geven - gevoel - gevolg - geweer - geweld - geweldig - gewicht - gewoon - gewoonlijk - gewoonte - gezag - gezamenlijk - gezellig - gezelschap - gezet - gezicht - gezien - gezin - gezond - gezondheid - gij - gisteren - glanzen - glas - glijden - glimlach - glimlachen - God - god - godsdienst - goed - goed - goederen - goedkoop - golf - gooien - gordijn - gouden - graag - gras - greep - grens - grijpen - grijs - groei - groeien - groen - groep - grond - grondslag - groot - gulden - gunstig -
+    gedurende
+    geef
+    geel
+    geen
+    geest
+    geestelijk
+    geestelijke
+    gegeven
+    geheel
+    geheim
+    geheugen
+    gehouden
+    gek
+    geld
+    gelden
+    geleden
+    geleerd
+    gelegen
+    gelegenheid
+    geleidelijk
+    gelijk
+    gelijk
+    geloof
+    geloven
+    geluid
+    geluk
+    gelukkig
+    gemak
+    gemakkelijk
+    gemeen
+    gemeenschap
+    gemeenschappelijk
+    gemeente
+    generaal
+    generatie
+    genezen
+    genieten
+    genoeg
+    gering
+    geschieden
+    geschiedenis
+    gesloten
+    gesprek
+    gestalte
+    gesteld
+    geur
+    gevaar
+    gevaarlijk
+    geval
+    gevangenis
+    geven
+    gevoel
+    gevolg
+    geweer
+    geweld
+    geweldig
+    gewicht
+    gewoon
+    gewoonlijk
+    gewoonte
+    gezag
+    gezamenlijk
+    gezellig
+    gezelschap
+    gezet
+    gezicht
+    gezien
+    gezin
+    gezond
+    gezondheid
+    gij
+    gisteren
+    glanzen
+    glas
+    glijden
+    glimlach
+    glimlachen
+    godsdienst
+    goed
+    goederen
+    goedkoop
+    golf
+    gooien
+    gordijn
+    gouden
+    graag
+    gras
+    greep
+    grens
+    grijpen
+    grijs
+    groei
+    groeien
+    groen
+    groep
+    grond
+    grondslag
+    groot
+    gulden
+    gunstig
 
     haar
     haast
@@ -443,15 +598,70 @@ const getWordList = () => {
     half
     hals
     hand
-    handel - handelen - handeling - handhaven - hangen - hanteren - hard - hart - hé - hebben - heel - heel - heen - heer -
-
-Heer -
-
-heerlijk - heersen - heet - heffen - heilig - heilige - helaas - helder - helemaal - helft - helpen - hem - hemel - hen - herhalen - herinneren - herinnering - herkennen - herstellen - het - het - heten - hetgeen - hetzelfde - heuvel - hevig - hier - hij - historisch - hoe - hoed - hoek - hoeveel - hoeveelheid - hoeven - hoewel -
-
-Holland -
-
-hond - honderd - honderd - honger - hoofd - hoofdstuk - hoog - hoogte - hoop - hoor - hoor - hopen - horen - hotel - houden - houding - hout - huid - huidig - huilen - huis - huisarts - hulp - hun - hut - huwelijk -
+    handel
+    handelen
+    handeling
+    handhaven
+    hangen
+    hanteren
+    hard
+    hart
+    hebben
+    heel
+    heen
+    heerlijk
+    heersen
+    heet
+    heffen
+    heilig
+    heilige
+    helaas
+    helder
+    helemaal
+    helft
+    helpen
+    hemel
+    herhalen
+    herinneren
+    herinnering
+    herkennen
+    herstellen
+    heten
+    hetgeen
+    hetzelfde
+    heuvel
+    hevig
+    hier
+    historisch
+    hoed
+    hoek
+    hoeveel
+    hoeveelheid
+    hoeven
+    hoewel
+    hond
+    honderd
+    honger
+    hoofd
+    hoofdstuk
+    hoog
+    hoogte
+    hoop
+    hoor
+    hopen
+    horen
+    hotel
+    houden
+    houding
+    hout
+    huid
+    huidig
+    huilen
+    huis
+    huisarts
+    hulp
+    hut
+    huwelijk
 
     ideaal
     idee
@@ -461,17 +671,77 @@ hond - honderd - honderd - honger - hoofd - hoofdstuk - hoog - hoogte - hoop - h
     iets
     immers
     inderdaad
-    indien - individu - individueel - indruk - ineens - informatie - ingaan - ingewikkeld - inhoud - inhouden - initiatief - inmiddels - innemen - innerlijk - inrichting - instantie - instelling - instrument - integendeel - interessant - interesseren - internationaal - intussen - invloed - inzake - inzicht -
+    indien
+    individu
+    individueel
+    indruk
+    ineens
+    informatie
+    ingaan
+    ingewikkeld
+    inhoud
+    inhouden
+    initiatief
+    inmiddels
+    innemen
+    innerlijk
+    inrichting - instantie - instelling - instrument - integendeel - interessant - interesseren - internationaal - intussen - invloed - inzake - inzicht -
 
-j
-ja - jaar - jagen - jammer - Jan - januari - jas - je - jeugd - jezelf - Jezus - jij - jong - jong - jongeman - jongen - jongens - jood - jou - jouw - juffrouw - juist - juli - jullie - juni - jurk -
+    jaar
+    jagen
+    jammer
+    januari
+    jas
+    jeugd
+    jezelf
+    jong
+    jongeman
+    jongen
+    jongens
+    jood
+    juffrouw
+    juist
+    juli
+    jullie
+    juni
+    jurk
 
-k
-kaart - kaas - kader - kalm - Kamer - kamer - kamp - kans - kant - kantoor - kapitein - kapot - karakter - kast - kat - katholiek - keel - keer - kenmerk - kenmerken - kennelijk - kennen - kennis - kerel - keren - kerk - kern - keuken - keuze - kiezen - kijken - kilometer - kind - kist - klaar - klacht - klant - klap - klas - klasse - klassiek - kleden - kleed - klein - kleine - kleren - kleur - klimmen - klinken - kloppen - knap - knie - knikken - koel - koffer - koffie - koken - kolonel - komen - koning - koningin - kop - kopen - kort - kost - kosten - kosten - koud - kracht - krachtig - krant - krijgen - kring - kritiek - kritisch - kruipen - kruis - kunnen - kunst - kunstenaar - kussen - kust - kwaad - kwaliteit - kwestie - kwijt -
+    kaart
+    kaas
+    kader
+    kalm
+    kamer
+    kamp
+    kans
+    kant
+    kantoor
+    kapitein
+    kapot - karakter - kast - kat - katholiek - keel - keer - kenmerk - kenmerken - kennelijk - kennen - kennis - kerel - keren - kerk - kern - keuken - keuze - kiezen - kijken - kilometer - kind - kist - klaar - klacht - klant - klap - klas - klasse - klassiek - kleden - kleed - klein - kleine - kleren - kleur - klimmen - klinken - kloppen - knap - knie - knikken - koel - koffer - koffie - koken - kolonel - komen - koning - koningin - kop - kopen - kort - kost - kosten - kosten - koud - kracht - krachtig - krant - krijgen - kring - kritiek - kritisch - kruipen - kruis - kunnen - kunst - kunstenaar - kussen - kust - kwaad - kwaliteit - kwestie - kwijt -
 
-l
-laag - laag - laat - laatst - lachen - land - landschap - lang - langs - langs - langzaam - last - laten - later - leeftijd - leeg - leer - leerling - leger - leggen - leiden - Leiden - leider - leiding - lekker - lelijk - leraar - leren - letten - letter - leuk - leunen - leven - leven - leveren - lezen - lezer - lichaam - lichamelijk - licht - licht - lichten - lid - lief - liefde - liefst - liever - liggen - lijden - lijf - lijk - lijken - lijn - lijst - links - lip - literair - literatuur - logisch - loop - lopen - los - lot - lucht - luid - luiden - luisteren - luitenant - lukken -
-
+    laag
+    laat
+    laatst
+    lachen
+    land
+    landschap
+    lang
+    langs
+    langzaam
+    last
+    laten
+    later
+    leeftijd
+    leeg
+    leer
+    leerling
+    leger
+    leggen
+    leiden
+    leider
+    leiding
+    lekker
+    lelijk
+    leraar - leren - letten - letter - leuk - leunen - leven - leven - leveren - lezen - lezer - lichaam - lichamelijk - licht - licht - lichten - lid - lief - liefde - liefst - liever - liggen - lijden - lijf - lijk - lijken - lijn - lijst - links - lip - literair - literatuur - logisch - loop - lopen - los - lot - lucht - luid - luiden - luisteren - luitenant - lukken -
 
     maag
     maal
@@ -496,37 +766,238 @@ laag - laag - laat - laatst - lachen - land - landschap - lang - langs - langs -
     massa
     mate
     materiaal
-    mede - medisch - mee - meebrengen - meemaken - meemaken - meenemen - meenemen - meer - meestal - meester - mei - meisje - melden - melk - men - meneer - menen - mening - mens - menselijk - merken - merkwaardig - mes - met - meteen - meter - methode - mevrouw - mezelf - middag - middel - midden - midden - mij - mijn - mijnheer - milieu - militair - miljoen - min - minister - minstens - minuut - misschien - missen - model - modern - moe - moed - moeder - moeilijk - moeilijkheid - moeite - moeten - mogelijk - mogelijkheid - mogen - moment - mompelen - mond - mooi - moord - morgen - morgen - motief - motor - mr. - museum - muur - muziek -
+    mede
+    medisch
+    meebrengen
+    meemaken
+    meenemen
+    meer
+    meestal
+    meester
+    mei
+    meisje
+    melden
+    melk
+    men
+    meneer
+    menen
+    mening
+    mens
+    menselijk
+    merken
+    merkwaardig
+    mes
+    meteen
+    meter - methode - mevrouw - mezelf - middag - middel - midden - midden - mij - mijn - mijnheer - milieu - militair - miljoen - min - minister - minstens - minuut - misschien - missen - model - modern - moe - moed - moeder - moeilijk - moeilijkheid - moeite - moeten - mogelijk - mogelijkheid - mogen - moment - mompelen - mond - mooi - moord - morgen - morgen - motief - motor - mr. - museum - muur - muziek -
 
-n
-na - naakt - naam - naar - naarmate - naast - nacht - nadat - nadenken - naderen - nadruk - namelijk - nat - nationaal - natuur - natuurlijk - nauw - nauwelijks - nauwkeurig - Nederlands - nee - neer - negatief - negen - neiging - nek - nemen - nergens - net - neus - niemand - niet - niets - niets - niettemin - nieuw - niks - niveau - noch - nodig - noemen - nog - nogal - noodzaak - noodzakelijk - nooit - noorden - norm - normaal - nou - nou - november - nu - nu - nummer - nuttig -
+    naakt
+    naam
+    naarmate
+    naast
+    nacht
+    nadat
+    nadenken
+    naderen
+    nadruk
+    namelijk
+    nat
+    nationaal
+    natuur
+    natuurlijk
+    nauw
+    nauwelijks
+    nauwkeurig
+    neer
+    negatief
+    negen
+    neiging
+    nek
+    nemen
+    nergens
+    net
+    neus
+    niemand
+    niet
+    niets
+    niettemin
+    nieuw
+    niks
+    niveau
+    noch
+    nodig
+    noemen
+    nog
+    nogal
+    noodzaak
+    noodzakelijk
+    nooit
+    noorden
+    norm
+    normaal
+    nou
+    november
+    nu
+    nummer
+    nuttig
 
-o
-o.a. - object - ochtend - oefenen - of - officieel - officier - ofschoon - ogenblik - oktober - olie - om - om - om - omdat - omgeving - omhoog - omschrijven - omstandigheid - omtrent - omvang - omvatten - ondanks - onder - onder - onderdeel - ondergaan - onderling - onderneming - onderscheid - onderscheiden - onderwerp - onderwijs - onderzoek - onderzoeken - ongeluk - ongetwijfeld - ongeveer - onmiddellijk - onmogelijk - ons - ontbreken - ontdekken - ontkennen - ontmoeten - ontmoeting - ontsnappen - ontstaan - ontvangen - ontwerpen - ontwikkeld - ontwikkelen - ontwikkeling - onvermijdelijk - onverwacht - oog - ooit - ook - oom - oor - oordeel - oorlog - oorspronkelijk - oorzaak - oosten - op - op - opdat - opdracht - opeens - open - openbaar - openen - operatie - ophouden - opkomen - opleiding - opleveren - oplossen - oplossing - opmerken - opmerking - opnemen - opnieuw - oprichten - opstaan - opstellen - optreden - optreden - opvallen - opvatting - opvoeding - opzicht - opzij - orde - ordening - orgaan - organisatie - organiseren - oud - ouder - over - over - overal - overeenkomst - overeind - overgaan - overheid - overig - overigens - overkomen - overleg - overnemen - overtuigen - overtuiging - overwegen - overweging -
+    object
+    ochtend
+    oefenen
+    officieel
+    officier
+    ofschoon
+    ogenblik
+    oktober
+    olie
+    omdat
+    omgeving
+    omhoog
+    omschrijven
+    omstandigheid
+    omtrent
+    omvang
+    omvatten
+    ondanks
+    onder
+    onderdeel
+    ondergaan
+    onderling
+    onderneming
+    onderscheid
+    onderscheiden
+    onderwerp
+    onderwijs
+    onderzoek
+    onderzoeken
+    ongeluk
+    ongetwijfeld
+    ongeveer
+    onmiddellijk
+    onmogelijk
+    ontbreken
+    ontdekken
+    ontkennen
+    ontmoeten
+    ontmoeting
+    ontsnappen
+    ontstaan
+    ontvangen
+    ontwerpen
+    ontwikkeld
+    ontwikkelen
+    ontwikkeling
+    onvermijdelijk
+    onverwacht
+    oog
+    ooit
+    oom
+    oor
+    oordeel
+    oorlog
+    oorspronkelijk
+    oorzaak
+    oosten
+    opdat
+    opdracht
+    opeens
+    open
+    openbaar
+    openen - operatie - ophouden - opkomen - opleiding - opleveren - oplossen - oplossing - opmerken - opmerking - opnemen - opnieuw - oprichten - opstaan - opstellen - optreden - optreden - opvallen - opvatting - opvoeding - opzicht - opzij - orde - ordening - orgaan - organisatie - organiseren - oud - ouder - over - over - overal - overeenkomst - overeind - overgaan - overheid - overig - overigens - overkomen - overleg - overnemen - overtuigen - overtuiging - overwegen - overweging -
 
-p
-paar - paard - pad - pak - pakken - papa - papier - paragraaf - partij - partner - pas - pas - passen - passeren - pastoor - patiënt - patroon - per - periode - pers - personeel - persoon - persoonlijk - persoonlijkheid - peter - pijn - pijnlijk - plaat - plaats - plaatselijk - plaatsen - plaatsvinden - plan - plant - plegen - plek - plezier - plotseling - poging - politie - politiek - politiek - poos - poot - positie - positief - pot - prachtig - praktijk - praktisch - praten - precies - president - prettig - priester - prijs - principe - prins - proberen - probleem - procent - proces - produceren - product - productie - professor - programma - project - provincie - psychologie - psychologisch - psycholoog - publiceren - publiek - punt -
+    paar
+    paard
+    pad
+    pak
+    pakken
+    papier
+    paragraaf
+    partij
+    partner
+    pas
+    passen - passeren - pastoor - patiënt - patroon - per - periode - pers - personeel - persoon - persoonlijk - persoonlijkheid - peter - pijn - pijnlijk - plaat - plaats - plaatselijk - plaatsen - plaatsvinden - plan - plant - plegen - plek - plezier - plotseling - poging - politie - politiek - politiek - poos - poot - positie - positief - pot - prachtig - praktijk - praktisch - praten - precies - president - prettig - priester - prijs - principe - prins - proberen - probleem - procent - proces - produceren - product - productie - professor - programma - project - provincie - psychologie - psychologisch - psycholoog - publiceren - publiek - punt -
 
-r
-raad - raam - radio - raken - rand - rapport - reactie - reageren - realiseren - recht - recht - rechter - rechts - rechtstreeks - redden - rede - redelijk - reden - reeds - reeks - regel - regelen - regeling - regelmatig - regen - regering - reis - rekenen - rekening - relatie - relatief - rennen - rest - restaurant - resultaat - revolutie - richten - richting - rij - rijden - Rijk - rijk - rijk - riks - risico - rivier - roepen - roken - rol - rollen - roman - rond - rond - rood - rook - roze - rug - ruiken - ruim - ruimte - ruimtelijk - rukken - rust - rusten - rustig - ruzie -
+    raad
+    raam
+    radio
+    raken
+    rand
+    rapport
+    reactie
+    reageren
+    realiseren
+    recht
+    rechter
+    rechts
+    rechtstreeks - redden - rede - redelijk - reden - reeds - reeks - regel - regelen - regeling - regelmatig - regen - regering - reis - rekenen - rekening - relatie - relatief - rennen - rest - restaurant - resultaat - revolutie - richten - richting - rij - rijden - Rijk - rijk - rijk - riks - risico - rivier - roepen - roken - rol - rollen - roman - rond - rond - rood - rook - roze - rug - ruiken - ruim - ruimte - ruimtelijk - rukken - rust - rusten - rustig - ruzie -
 
     samen
     samenleving
     samenwerking
     schaal
-    schade - schaduw - scheiden - schenken - scheppen - scherp - schieten - schijnen - schikken - schilderen - schip - schoen - school - schoon - schoonheid - schoot - schouder - schreeuwen - schrijven - schrijven - schrijver - schrikken - schudden - schuiven - schuld - seconde - sector - seksueel - september - serieus - sfeer - sigaret - simpel - sinds - situatie - slaaf - slaan - slaap - slaapkamer - slachtoffer - slag - slagen - slapen - slecht - slechts - sleutel - slikken - slot - sluiten - smaak - smal - sneeuw - snel - snelheid - snijden - sociaal - socialistisch - soldaat - somber - sommige - soms - soort - spannen - spanning - speciaal - specifiek - spel - spelen - spiegel - spijten - spoedig - spoor - spreken - springen - sprong - staan - staat - stad - stadium - stand - standpunt - stap - stappen - staren - station - steeds - steek - steen - steken - stellen - stem - stemmen - stemming - ster - sterk - sterven - steun - steunen - stevig - stijf - stijgen - stijl - stil - stilte - stoel - stof - stoppen - storten - stoten - straat - straf - strak - straks - strand - streek - strekken - strelen - streng - streven - strijd - stromen - stroom - structuur - student - studeren - studie - stuk - sturen - stuur - succes - suiker - symbool - systeem -
+    schade
+    schaduw
+    scheiden
+    schenken
+    scheppen
+    scherp
+    schieten
+    schijnen
+    schikken
+    schilderen - schip - schoen - school - schoon - schoonheid - schoot - schouder - schreeuwen - schrijven - schrijven - schrijver - schrikken - schudden - schuiven - schuld - seconde - sector - seksueel - september - serieus - sfeer - sigaret - simpel - sinds - situatie - slaaf - slaan - slaap - slaapkamer - slachtoffer - slag - slagen - slapen - slecht - slechts - sleutel - slikken - slot - sluiten - smaak - smal - sneeuw - snel - snelheid - snijden - sociaal - socialistisch - soldaat - somber - sommige - soms - soort - spannen - spanning - speciaal - specifiek - spel - spelen - spiegel - spijten - spoedig - spoor - spreken - springen - sprong - staan - staat - stad - stadium - stand - standpunt - stap - stappen - staren - station - steeds - steek - steen - steken - stellen - stem - stemmen - stemming - ster - sterk - sterven - steun - steunen - stevig - stijf - stijgen - stijl - stil - stilte - stoel - stof - stoppen - storten - stoten - straat - straf - strak - straks - strand - streek - strekken - strelen - streng - streven - strijd - stromen - stroom - structuur - student - studeren - studie - stuk - sturen - stuur - succes - suiker - symbool - systeem -
 
-t
-taak - taal - tafel - tak - tamelijk - tand - tante - te - techniek - technisch - tegelijk - tegelijkertijd - tegemoet - tegen - tegenover - tegenstander - tegenstelling - tegenwoordig - teken - tekenen - tekst - telefoon - televisie - telkens - tellen - ten - tenminste - tenslotte - tenzij - ter - terecht - term - termijn - terras - terrein - terug - terugkeren - terugkomen - terwijl - tevens - tevoren - tevreden - thans - thee - theoretisch - theorie - thuis - tien - tiental - tijd - tijdelijk - tijdens - tijdschrift - tikken - titel - toch - tocht - toe - toegeven - toekomst - toekomstig - toen - toen - toenemen - toepassen - toepassing - toestand - toevallig - toevoegen - tonen - tong - toon - top - tot - tot - totaal - totdat - traag - traan - trachten - traditie - traditioneel - trap - treden - treffen - trein - trek - trekken - trillen - troep - trots - trouwen - trouwens - tuin - tussen - twaalf - twee - tweede - twijfel - twintig - type - typisch -
+    taak
+    taal
+    tafel
+    tak
+    tamelijk
+    tand
+    tante
+    techniek
+    technisch
+    tegelijk
+    tegelijkertijd
+    tegemoet
+    tegen
+    tegenover - tegenstander - tegenstelling - tegenwoordig - teken - tekenen - tekst - telefoon - televisie - telkens - tellen - ten - tenminste - tenslotte - tenzij - ter - terecht - term - termijn - terras - terrein - terug - terugkeren - terugkomen - terwijl - tevens - tevoren - tevreden - thans - thee - theoretisch - theorie - thuis - tien - tiental - tijd - tijdelijk - tijdens - tijdschrift - tikken - titel - toch - tocht - toe - toegeven - toekomst - toekomstig - toen - toen - toenemen - toepassen - toepassing - toestand - toevallig - toevoegen - tonen - tong - toon - top - tot - tot - totaal - totdat - traag - traan - trachten - traditie - traditioneel - trap - treden - treffen - trein - trek - trekken - trillen - troep - trots - trouwen - trouwens - tuin - tussen - twaalf - twee - tweede - twijfel - twintig - type - typisch -
 
-    uitdrukking - uiteindelijk - uiteraard - uiterst - uitgaan - uitgangspunt - uitgesproken - uiting - uitkomen - uitleggen - uitmaken - uitoefenen - uitsluiten - uitsluitend - uitspraak - uitspreken - uitstekend - uitvoeren - uitvoerig - uitvoering - uitzien - uitzondering - universiteit - uur - uw -
+    uitdrukking
+    uiteindelijk
+    uiteraard
+    uiterst
+    uitgaan
+    uitgangspunt
+    uitgesproken
+    uiting
+    uitkomen
+    uitleggen - uitmaken - uitoefenen - uitsluiten - uitsluitend - uitspraak - uitspreken - uitstekend - uitvoeren - uitvoerig - uitvoering - uitzien - uitzondering - universiteit - uur - uw -
 
+    vaag
+    vaak
+    vader
+    vak
+    vakantie
+    vallen
+    vanaf
+    vanavond
+    vandaag - vandaan - vandaar - vangen - vanuit - vanwege - vanzelf - vanzelfsprekend - varen - vast - vasthouden - vaststellen - vatten - vechten - veel - veelal - vegen - veilig - veld - velen - vent - ver - veranderen - verandering - verantwoordelijk - verantwoordelijkheid - verbaasd - verband - verbazen - verbazing - verbergen - verbeteren - verbieden - verbinden - verbinding - verdedigen - verdelen - verder - verdienen - verdieping - verdriet - verdwijnen - vereisen - verenigen - vereniging - vergadering - vergelijken - vergelijking - vergeten - verhaal - verhouding - verkeerd - verkeren - verklaren - verklaring - verkopen - verkrijgen - verlangen - verlangen - verlaten - verleden - verlenen - verlies - verliezen - verlopen - verloren - vermelden - vermijden - verminderen - vermoedelijk - vermoeden - vermogen - vermogen - vermoorden - vernietigen - veronderstellen - veroorzaken - verrichten - verschaffen - verscheidene - verschijnen - verschijnsel - verschil - verschillen - verschillend - verschillende - verschrikkelijk - verslag - verspreiden - verstaan - verstand - verstandig - versterken - verte - vertegenwoordigen - vertellen - vertonen - vertrek - vertrekken - vertrouwen - vertrouwen - vervangen - vervelen - vervolgen - vervolgens - vervullen - verwachten - verwachting - verwerken - verwerven - verwijderen - verwijzen - verzamelen - verzet - verzoek - vestigen - via - vier - vierde - vijand - vijf - vijftien - vijftig - vinden - vinger - vis - visie - vlak - vlak - vlees - vliegen - vliegtuig - vloer - vlucht - vluchten - vlug - vochtig - voedsel - voegen - voelen - voeren - voet - vogel - vol - voldoen - voldoende - volgen - volgend - volgens - volk - volkomen - volledig - volstrekt - volwassen - voor - voor - voor - vooral - voorbeeld - voorbereiden - voorbij - voordat - voordeel - voordoen - voorhoofd - voorkeur - voorkomen - voorlopig - voornaam - voornamelijk - voorschijn - voorstel - voorstellen - voorstelling - voort - voortdurend - voorts - vooruit - voorwaarde - voorwerp - voorzichtig - voorzien - voorzitter - voren - vorig - vorm - vormen - vorming - vraag - vragen - vrede - vreemd - vreemde - vreselijk - vreugde - vrezen - vriend - vriendelijk - vriendin - vrij - vrijheid - vrijwel - vroeg - vroeger - vrolijk - vrouw - vrouwelijk - vrucht - vullen - vuur -
 
-    vaag - vaak - vader - vak - vakantie - vallen - van - vanaf - vanavond - vandaag - vandaan - vandaar - vangen - vanuit - vanwege - vanzelf - vanzelfsprekend - varen - vast - vasthouden - vaststellen - vatten - vechten - veel - veelal - vegen - veilig - veld - velen - vent - ver - veranderen - verandering - verantwoordelijk - verantwoordelijkheid - verbaasd - verband - verbazen - verbazing - verbergen - verbeteren - verbieden - verbinden - verbinding - verdedigen - verdelen - verder - verdienen - verdieping - verdriet - verdwijnen - vereisen - verenigen - vereniging - vergadering - vergelijken - vergelijking - vergeten - verhaal - verhouding - verkeerd - verkeren - verklaren - verklaring - verkopen - verkrijgen - verlangen - verlangen - verlaten - verleden - verlenen - verlies - verliezen - verlopen - verloren - vermelden - vermijden - verminderen - vermoedelijk - vermoeden - vermogen - vermogen - vermoorden - vernietigen - veronderstellen - veroorzaken - verrichten - verschaffen - verscheidene - verschijnen - verschijnsel - verschil - verschillen - verschillend - verschillende - verschrikkelijk - verslag - verspreiden - verstaan - verstand - verstandig - versterken - verte - vertegenwoordigen - vertellen - vertonen - vertrek - vertrekken - vertrouwen - vertrouwen - vervangen - vervelen - vervolgen - vervolgens - vervullen - verwachten - verwachting - verwerken - verwerven - verwijderen - verwijzen - verzamelen - verzet - verzoek - vestigen - via - vier - vierde - vijand - vijf - vijftien - vijftig - vinden - vinger - vis - visie - vlak - vlak - vlees - vliegen - vliegtuig - vloer - vlucht - vluchten - vlug - vochtig - voedsel - voegen - voelen - voeren - voet - vogel - vol - voldoen - voldoende - volgen - volgend - volgens - volk - volkomen - volledig - volstrekt - volwassen - voor - voor - voor - vooral - voorbeeld - voorbereiden - voorbij - voordat - voordeel - voordoen - voorhoofd - voorkeur - voorkomen - voorlopig - voornaam - voornamelijk - voorschijn - voorstel - voorstellen - voorstelling - voort - voortdurend - voorts - vooruit - voorwaarde - voorwerp - voorzichtig - voorzien - voorzitter - voren - vorig - vorm - vormen - vorming - vraag - vragen - vrede - vreemd - vreemde - vreselijk - vreugde - vrezen - vriend - vriendelijk - vriendin - vrij - vrijheid - vrijwel - vroeg - vroeger - vrolijk - vrouw - vrouwelijk - vrucht - vullen - vuur -
-
-
-    waar - waar - waard - waarde - waarheid - waarnemen - waarom - waarschijnlijk - waarschuwen - wachten - wagen - wagen - wakker - wand - wandelen - wang - wanneer - want - wapen - warm - warmte - wassen - wat - wat - water - we - week - weer - weg - weg - wegens - weggaan - weigeren - weinig - weinig - wekken - wel - weliswaar - welk - wellicht - wenden - wennen - wens - wensen - wereld - wereldoorlog - werk - werkelijk - werkelijkheid - werken - werking - werknemer - werpen - westen - westers - wet - weten - weten - wetenschap - wetenschappelijk - wezen - wezen - wie - wiens - wij - wijd - wijn - wijze - wijzen - wil - wild - wilde - willen - wind - winkel - winnen - winst - winter - wisselen - wit - woede - wolk - wonder - wonen - woning - woord - worden - wrijven -
-
+    waar
+    waard
+    waarde
+    waarheid
+    waarnemen
+    waarom
+    waarschijnlijk
+    waarschuwen
+    wachten
+    wagen
+    wakker
+    wand
+    wandelen
+    wang
+    wanneer
+    want
+    wapen - warm - warmte - wassen - wat - wat - water - we - week - weer - weg - weg - wegens - weggaan - weigeren - weinig - weinig - wekken - wel - weliswaar - welk - wellicht - wenden - wennen - wens - wensen - wereld - wereldoorlog - werk - werkelijk - werkelijkheid - werken - werking - werknemer - werpen - westen - westers - wet - weten - weten - wetenschap - wetenschappelijk - wezen - wezen - wie - wiens - wij - wijd - wijn - wijze - wijzen - wil - wild - wilde - willen - wind - winkel - winnen - winst - winter - wisselen - wit - woede - wolk - wonder - wonen - woning - woord - worden - wrijven -
 
     zaak
     zaal
