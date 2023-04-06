@@ -698,260 +698,259 @@ const getWordList = () => {
     ["inzake", ""],
     ["inzicht", ""],
 
-    ["jaar
-    ["jagen
-    ["jammer
-    ["januari
-    ["jas
-    ["jeugd
-    ["jezelf
-    ["jong
-    ["jongeman
-    ["jongen
-    ["jongens
-    ["jood
-    ["juffrouw
-    ["juist
-    ["juli
-    ["jullie
-    ["juni
-    ["jurk
+    ["jaar", ""],
+    ["jagen", ""],
+    ["jammer", ""],
+    ["januari", ""],
+    ["jas", ""],
+    ["jeugd", ""],
+    ["jezelf", ""],
+    ["jong", ""],
+    ["jongeman", ""],
+    ["jongen", ""],
+    ["jongens", ""],
+    ["jood", ""],
+    ["juffrouw", ""],
+    ["juist", ""],
+    ["juli", ""],
+    ["jullie", ""],
+    ["juni", ""],
+    ["jurk", ""],
 
-    ["kaart
-    ["kaas
-    ["kader
-    ["kalm
-    ["kamer
-    ["kamp
-    ["kans
-    ["kant
-    ["kantoor
-    ["kapitein
-    ["kapot
-    ["karakter
-    ["kast
-    ["kat
-    ["katholiek
-    ["keel
-    ["keer
-    ["kenmerk
-    ["kenmerken
-    ["kennelijk
-    ["kennen
-    ["kennis
-    ["kerel
-    ["keren
-    ["kerk
-    ["kern
-    ["keuken
-    ["keuze
-    ["kiezen
-    ["kijken
-    ["kilometer
-    ["kind
-    ["kist
-    ["klaar
-    ["klacht
-    ["klant
-    ["klap
-    ["klas
-    ["klasse
-    ["klassiek
-    ["kleden
-    ["kleed
-    ["klein
-    ["kleine
-    ["kleren
-    ["kleur
-    ["klimmen
-    ["klinken
-    ["kloppen
-    ["knap
-    ["knie
-    ["knikken
-    ["koel
-    ["koffer
-    ["koffie
-    ["koken
-    ["kolonel
-    ["komen
-    ["koning
-    ["koningin
-    ["kop
-    ["kopen
-    ["kort
-    ["kost
-    ["kosten
-    ["koud
-    ["kracht
-    ["krachtig
-    ["krant
-    ["krijgen
-    ["kring
-    ["kritiek
-    ["kritisch
-    ["kruipen
-    ["kruis
-    ["kunnen
-    ["kunst
-    ["kunstenaar
-    ["kussen
-    ["kust
-    ["kwaad
-    ["kwaliteit
-    ["kwestie
-    ["kwijt
+    ["kaart", ""],
+    ["kaas", ""],
+    ["kader", ""],
+    ["kalm", ""],
+    ["kamer", ""],
+    ["kamp", ""],
+    ["kans", ""],
+    ["kant", ""],
+    ["kantoor", ""],
+    ["kapitein", ""],
+    ["kapot", ""],
+    ["karakter", ""],
+    ["kast", ""],
+    ["kat", ""],
+    ["katholiek", ""],
+    ["keel", ""],
+    ["keer", ""],
+    ["kenmerk", ""],
+    ["kenmerken", ""],
+    ["kennelijk", ""],
+    ["kennen", ""],
+    ["kennis", ""],
+    ["kerel", ""],
+    ["keren", ""],
+    ["kerk", ""],
+    ["kern", ""],
+    ["keuken", ""],
+    ["keuze", ""],
+    ["kiezen", ""],
+    ["kijken", ""],
+    ["kilometer", ""],
+    ["kind", ""],
+    ["kist", ""],
+    ["klaar", ""],
+    ["klacht", ""],
+    ["klant", ""],
+    ["klap", ""],
+    ["klas", ""],
+    ["klasse", ""],
+    ["klassiek", ""],
+    ["kleden", ""],
+    ["kleed", ""],
+    ["klein", ""],
+    ["kleine", ""],
+    ["kleren", ""],
+    ["kleur", ""],
+    ["klimmen", ""],
+    ["klinken", ""],
+    ["kloppen", ""],
+    ["knap", ""],
+    ["knie", ""],
+    ["knikken", ""],
+    ["koel", ""],
+    ["koffer", ""],
+    ["koffie", ""],
+    ["koken", ""],
+    ["kolonel", ""],
+    ["komen", ""],
+    ["koning", ""],
+    ["koningin", ""],
+    ["kop", ""],
+    ["kopen", ""],
+    ["kort", ""],
+    ["kost", ""],
+    ["kosten", ""],
+    ["koud", ""],
+    ["kracht", ""],
+    ["krachtig", ""],
+    ["krant", ""],
+    ["krijgen", ""],
+    ["kring", ""],
+    ["kritiek", ""],
+    ["kritisch", ""],
+    ["kruipen", ""],
+    ["kruis", ""],
+    ["kunnen", ""],
+    ["kunst", ""],
+    ["kunstenaar", ""],
+    ["kussen", ""],
+    ["kust", ""],
+    ["kwaad", ""],
+    ["kwaliteit", ""],
+    ["kwestie", ""],
+    ["kwijt", ""],
 
-    ["laag
-    ["laat
-    ["laatst
-    ["lachen
-    ["land
-    ["landschap
-    ["lang
-    ["langs
-    ["langzaam
-    ["last
-    ["laten
-    ["later
-    ["leeftijd
-    ["leeg
-    ["leer
-    ["leerling
-    ["leger
-    ["leggen
-    ["leiden
-    ["leider
-    ["leiding
-    ["lekker
-    ["lelijk
-    ["leraar
-    ["leren
-    ["letten
-    ["letter
-    ["leuk
-    ["leunen
-    ["leven
-    ["leveren
-    ["lezen
-    ["lezer
-    ["lichaam
-    ["lichamelijk
-    ["licht
-    ["lichten
-    ["lid
-    ["lief
-    ["liefde
-    ["liefst
-    ["liever
-    ["liggen
-    ["lijden
-    ["lijf
-    ["lijk
-    ["lijken
-    ["lijn
-    ["lijst
-    ["links
-    ["lip
-    ["literair
-    ["literatuur
-    ["logisch
-    ["loop
-    ["lopen
-    ["los
-    ["lot
-    ["lucht
-    ["luid
-    ["luiden
-    ["luisteren
-    ["luitenant
-    ["lukken
+    ["laag", ""],
+    ["laat", ""],
+    ["laatst", ""],
+    ["lachen", ""],
+    ["land", ""],
+    ["landschap", ""],
+    ["lang", ""],
+    ["langs", ""],
+    ["langzaam", ""],
+    ["last", ""],
+    ["laten", ""],
+    ["later", ""],
+    ["leeftijd", ""],
+    ["leeg", ""],
+    ["leer", ""],
+    ["leerling", ""],
+    ["leger", ""],
+    ["leggen", ""],
+    ["leiden", ""],
+    ["leider", ""],
+    ["leiding", ""],
+    ["lekker", ""],
+    ["lelijk", ""],
+    ["leraar", ""],
+    ["leren", ""],
+    ["letten", ""],
+    ["letter", ""],
+    ["leuk", ""],
+    ["leunen", ""],
+    ["leven", ""],
+    ["leveren", ""],
+    ["lezen", ""],
+    ["lezer", ""],
+    ["lichaam", ""],
+    ["lichamelijk", ""],
+    ["licht", ""],
+    ["lichten", ""],
+    ["lid", ""],
+    ["lief", ""],
+    ["liefde", ""],
+    ["liefst", ""],
+    ["liever", ""],
+    ["liggen", ""],
+    ["lijden", ""],
+    ["lijf", ""],
+    ["lijk", ""],
+    ["lijken", ""],
+    ["lijn", ""],
+    ["lijst", ""],
+    ["links", ""],
+    ["lip", ""],
+    ["literair", ""],
+    ["literatuur", ""],
+    ["logisch", ""],
+    ["loop", ""],
+    ["lopen", ""],
+    ["los", ""],
+    ["lot", ""],
+    ["lucht", ""],
+    ["luid", ""],
+    ["luiden", ""],
+    ["luisteren", ""],
+    ["luitenant", ""],
+    ["lukken", ""],
 
-    ["maag
-    ["maal
-    ["maan
-    ["maand
-    ["maar
-    ["maart
-    ["maat
-    ["maatregel
-    ["maatschappelijk
-    ["maatschappij
-    ["machine
-    ["macht
-    ["mager
-    ["maken
-    ["makkelijk
-    ["mama
-    ["man
-    ["manier
-    ["manieren
-    ["markt
-    ["massa
-    ["mate
-    ["materiaal
-    ["mede
-    ["medisch
-    ["meebrengen
-    ["meemaken
-    ["meenemen
-    ["meer
-    ["meestal
-    ["meester
-    ["mei
-    ["meisje
-    ["melden
-    ["melk
-    ["men
-    ["meneer
-    ["menen
-    ["mening
-    ["mens
-    ["menselijk
-    ["merken
-    ["merkwaardig
-    ["mes
-    ["meteen
-    ["meter
-    ["methode
-    ["mevrouw
-    ["mezelf
-    ["middag
-    ["middel
-    ["midden
-    ["mijnheer
-    ["milieu
-    ["militair
-    ["miljoen
-    ["min
-    ["minister
-    ["minstens
-    ["minuut
-    ["misschien
-    ["missen
-    ["model
-    ["modern
-    ["moe
-    ["moed
-    ["moeder
-    ["moeilijk
-    ["moeilijkheid
-    ["moeite
-    ["moeten
-    ["mogelijk
-    ["mogelijkheid
-    ["mogen
-    ["moment
-    ["mompelen
-    ["mond
-    ["mooi
-    ["moord
-    ["morgen
-    ["motief
-    ["motor
-    ["museum
-    ["muur
-    ["muziek
+    ["maag", ""],
+    ["maal", ""],
+    ["maan", ""],
+    ["maand", ""],
+    ["maar", ""],
+    ["maart", ""],
+    ["maat", ""],
+    ["maatregel", ""],
+    ["maatschappelijk", ""],
+    ["maatschappij", ""],
+    ["machine", ""],
+    ["macht", ""],
+    ["mager", ""],
+    ["maken", ""],
+    ["makkelijk", ""],
+    ["man", ""],
+    ["manier", ""],
+    ["manieren", ""],
+    ["markt", ""],
+    ["massa", ""],
+    ["mate", ""],
+    ["materiaal", ""],
+    ["mede", ""],
+    ["medisch", ""],
+    ["meebrengen", ""],
+    ["meemaken", ""],
+    ["meenemen", ""],
+    ["meer", ""],
+    ["meestal", ""],
+    ["meester", ""],
+    ["mei", ""],
+    ["meisje", ""],
+    ["melden", ""],
+    ["melk", ""],
+    ["men", ""],
+    ["meneer", ""],
+    ["menen", ""],
+    ["mening", ""],
+    ["mens", ""],
+    ["menselijk", ""],
+    ["merken", ""],
+    ["merkwaardig", ""],
+    ["mes", ""],
+    ["meteen", ""],
+    ["meter", ""],
+    ["methode", ""],
+    ["mevrouw", ""],
+    ["mezelf", ""],
+    ["middag", ""],
+    ["middel", ""],
+    ["midden", ""],
+    ["mijnheer", ""],
+    ["milieu", ""],
+    ["militair", ""],
+    ["miljoen", ""],
+    ["min", ""],
+    ["minister", ""],
+    ["minstens", ""],
+    ["minuut", ""],
+    ["misschien", ""],
+    ["missen", ""],
+    ["model", ""],
+    ["modern", ""],
+    ["moe", ""],
+    ["moed", ""],
+    ["moeder", ""],
+    ["moeilijk", ""],
+    ["moeilijkheid", ""],
+    ["moeite", ""],
+    ["moeten", ""],
+    ["mogelijk", ""],
+    ["mogelijkheid", ""],
+    ["mogen", ""],
+    ["moment", ""],
+    ["mompelen", ""],
+    ["mond", ""],
+    ["mooi", ""],
+    ["moord", ""],
+    ["morgen", ""],
+    ["motief", ""],
+    ["motor", ""],
+    ["museum", ""],
+    ["muur", ""],
+    ["muziek", ""],
 
     ["naakt
     ["naam
@@ -1179,91 +1178,206 @@ const getWordList = () => {
     ["publiek
     ["punt
 
-    raad
-    raam
-    radio
-    raken
-    rand
-    rapport
-    reactie
-    reageren
-    realiseren
-    recht
-    rechter
-    rechts
-    rechtstreeks
-    redden
-    rede
-    redelijk
-    reden
-    reeds
-    reeks
-    regel
-    regelen
-    regeling
-    regelmatig
-    regen
-    regering
-    reis
-    rekenen
-    rekening
-    relatie
-    relatief
-    rennen
-    rest
-    restaurant
-    resultaat
-    revolutie
-    richten
-    richting
-    rij
-    rijden
-    rijk
-    riks
-    risico
-    rivier
-    roepen - roken - rol - rollen - roman - rond - rond - rood - rook - roze - rug - ruiken - ruim - ruimte - ruimtelijk - rukken - rust - rusten - rustig - ruzie -
-
-    samen
-    samenleving
-    samenwerking
-    schaal
-    schade
-    schaduw
-    scheiden
-    schenken
-    scheppen
-    scherp
-    schieten
-    schijnen
-    schikken
-    schilderen
-    schip
-    schoen
-    school
-    schoon
-    schoonheid
-    schoot
-    schouder
-    schreeuwen
-    schrijven
-    schrijver
-    schrikken
-    schudden
-    schuiven
-    schuld
-    seconde
-    sector
-    seksueel
-    september
-    serieus
-    sfeer
-    sigaret
-    simpel
-    sinds
-    situatie
-    slaaf - slaan - slaap - slaapkamer - slachtoffer - slag - slagen - slapen - slecht - slechts - sleutel - slikken - slot - sluiten - smaak - smal - sneeuw - snel - snelheid - snijden - sociaal - socialistisch - soldaat - somber - sommige - soms - soort - spannen - spanning - speciaal - specifiek - spel - spelen - spiegel - spijten - spoedig - spoor - spreken - springen - sprong - staan - staat - stad - stadium - stand - standpunt - stap - stappen - staren - station - steeds - steek - steen - steken - stellen - stem - stemmen - stemming - ster - sterk - sterven - steun - steunen - stevig - stijf - stijgen - stijl - stil - stilte - stoel - stof - stoppen - storten - stoten - straat - straf - strak - straks - strand - streek - strekken - strelen - streng - streven - strijd - stromen - stroom - structuur - student - studeren - studie - stuk - sturen - stuur - succes - suiker - symbool - systeem -
-
+    ["raad
+    ["raam
+    ["radio
+    ["raken
+    ["rand
+    ["rapport
+    ["reactie
+    ["reageren
+    ["realiseren
+    ["recht
+    ["rechter
+    ["rechts
+    ["rechtstreeks
+    ["redden
+    ["rede
+    ["redelijk
+    ["reden
+    ["reeds
+    ["reeks
+    ["regel
+    ["regelen
+    ["regeling
+    ["regelmatig
+    ["regen
+    ["regering
+    ["reis
+    ["rekenen
+    ["rekening
+    ["relatie
+    ["relatief
+    ["rennen
+    ["rest
+    ["restaurant
+    ["resultaat
+    ["revolutie
+    ["richten
+    ["richting
+    ["rij
+    ["rijden
+    ["rijk
+    ["riks
+    ["risico
+    ["rivier
+    ["roepen
+    ["roken
+    ["rol
+    ["rollen
+    ["roman
+    ["rond
+    ["rood
+    ["rook
+    ["roze
+    ["rug
+    ["ruiken
+    ["ruim
+    ["ruimte
+    ["ruimtelijk
+    ["rukken
+    ["rust
+    ["rusten
+    ["rustig
+    ["ruzie
+    
+    ["samen
+    ["samenleving
+    ["samenwerking
+    ["schaal
+    ["schade
+    ["schaduw
+    ["scheiden
+    ["schenken
+    ["scheppen
+    ["scherp
+    ["schieten
+    ["schijnen
+    ["schikken
+    ["schilderen
+    ["schip
+    ["schoen
+    ["school
+    ["schoon
+    ["schoonheid
+    ["schoot
+    ["schouder
+    ["schreeuwen
+    ["schrijven
+    ["schrijver
+    ["schrikken
+    ["schudden
+    ["schuiven
+    ["schuld
+    ["seconde
+    ["sector
+    ["seksueel
+    ["september
+    ["serieus
+    ["sfeer
+    ["sigaret
+    ["simpel
+    ["sinds
+    ["situatie
+    ["slaaf
+    ["slaan
+    ["slaap
+    ["slaapkamer
+    ["slachtoffer
+    ["slag
+    ["slagen
+    ["slapen
+    ["slecht
+    ["slechts
+    ["sleutel
+    ["slikken
+    ["slot
+    ["sluiten
+    ["smaak
+    ["smal
+    ["sneeuw
+    ["snel
+    ["snelheid
+    ["snijden
+    ["sociaal
+    ["socialistisch
+    ["soldaat
+    ["somber
+    ["sommige
+    ["soms
+    ["soort
+    ["spannen
+    ["spanning
+    ["speciaal
+    ["specifiek
+    ["spel
+    ["spelen
+    ["spiegel
+    ["spijten
+    ["spoedig
+    ["spoor
+    ["spreken
+    ["springen
+    ["sprong
+    ["staan
+    ["staat
+    ["stad
+    ["stadium
+    ["stand
+    ["standpunt
+    ["stap
+    ["stappen
+    ["staren
+    ["station
+    ["steeds
+    ["steek
+    ["steen
+    ["steken
+    ["stellen
+    ["stem
+    ["stemmen
+    ["stemming
+    ["ster
+    ["sterk
+    ["sterven
+    ["steun
+    ["steunen
+    ["stevig
+    ["stijf
+    ["stijgen
+    ["stijl
+    ["stil
+    ["stilte
+    ["stoel
+    ["stof
+    ["stoppen
+    ["storten
+    ["stoten
+    ["straat
+    ["straf
+    ["strak
+    ["straks
+    ["strand
+    ["streek
+    ["strekken
+    ["strelen
+    ["streng
+    ["streven
+    ["strijd
+    ["stromen
+    ["stroom
+    ["structuur
+    ["student
+    ["studeren
+    ["studie
+    ["stuk
+    ["sturen
+    ["stuur
+    ["succes
+    ["suiker
+    ["symbool
+    ["systeem
+    
     taak
     taal
     tafel
@@ -1298,7 +1412,68 @@ const getWordList = () => {
     terrein
     terugkeren
     terugkomen
-    terwijl - tevens - tevoren - tevreden - thans - thee - theoretisch - theorie - thuis - tien - tiental - tijd - tijdelijk - tijdens - tijdschrift - tikken - titel - toch - tocht - toe - toegeven - toekomst - toekomstig - toen - toen - toenemen - toepassen - toepassing - toestand - toevallig - toevoegen - tonen - tong - toon - top - tot - tot - totaal - totdat - traag - traan - trachten - traditie - traditioneel - trap - treden - treffen - trein - trek - trekken - trillen - troep - trots - trouwen - trouwens - tuin - tussen - twaalf - twee - tweede - twijfel - twintig - type - typisch -
+    terwijl
+    tevens
+    tevoren
+    tevreden
+    thans
+    thee
+    theoretisch
+    theorie
+    thuis
+    tien
+    tiental
+    tijd
+    tijdelijk
+    tijdens
+    tijdschrift
+    tikken
+    titel
+    toch
+    tocht
+    toe
+    toegeven
+    toekomst
+    toekomstig
+    toen
+    toenemen
+    toepassen
+    toepassing
+    toestand
+    toevallig
+    toevoegen
+    tonen
+    tong
+    toon
+    top
+    tot
+    totaal
+    totdat
+    traag
+    traan
+    trachten
+    traditie
+    traditioneel
+    trap
+    treden
+    treffen
+    trein
+    trek
+    trekken
+    trillen
+    troep
+    trots
+    trouwen
+    trouwens
+    tuin
+    tussen
+    twaalf
+    twee
+    tweede
+    twijfel
+    twintig
+    type
+    typisch
 
     uitdrukking
     uiteindelijk
@@ -1318,7 +1493,12 @@ const getWordList = () => {
     uitspreken
     uitstekend
     uitvoeren
-    uitvoerig - uitvoering - uitzien - uitzondering - universiteit - uur - uw -
+    uitvoerig
+    uitvoering
+    uitzien
+    uitzondering
+    universiteit
+    uur
 
     vaag
     vaak
@@ -1344,8 +1524,189 @@ const getWordList = () => {
     vechten
     veel
     veelal
-    vegen - veilig - veld - velen - vent - ver - veranderen - verandering - verantwoordelijk - verantwoordelijkheid - verbaasd - verband - verbazen - verbazing - verbergen - verbeteren - verbieden - verbinden - verbinding - verdedigen - verdelen - verder - verdienen - verdieping - verdriet - verdwijnen - vereisen - verenigen - vereniging - vergadering - vergelijken - vergelijking - vergeten - verhaal - verhouding - verkeerd - verkeren - verklaren - verklaring - verkopen - verkrijgen - verlangen - verlangen - verlaten - verleden - verlenen - verlies - verliezen - verlopen - verloren - vermelden - vermijden - verminderen - vermoedelijk - vermoeden - vermogen - vermogen - vermoorden - vernietigen - veronderstellen - veroorzaken - verrichten - verschaffen - verscheidene - verschijnen - verschijnsel - verschil - verschillen - verschillend - verschillende - verschrikkelijk - verslag - verspreiden - verstaan - verstand - verstandig - versterken - verte - vertegenwoordigen - vertellen - vertonen - vertrek - vertrekken - vertrouwen - vertrouwen - vervangen - vervelen - vervolgen - vervolgens - vervullen - verwachten - verwachting - verwerken - verwerven - verwijderen - verwijzen - verzamelen - verzet - verzoek - vestigen - via - vier - vierde - vijand - vijf - vijftien - vijftig - vinden - vinger - vis - visie - vlak - vlak - vlees - vliegen - vliegtuig - vloer - vlucht - vluchten - vlug - vochtig - voedsel - voegen - voelen - voeren - voet - vogel - vol - voldoen - voldoende - volgen - volgend - volgens - volk - volkomen - volledig - volstrekt - volwassen - voor - voor - voor - vooral - voorbeeld - voorbereiden - voorbij - voordat - voordeel - voordoen - voorhoofd - voorkeur - voorkomen - voorlopig - voornaam - voornamelijk - voorschijn - voorstel - voorstellen - voorstelling - voort - voortdurend - voorts - vooruit - voorwaarde - voorwerp - voorzichtig - voorzien - voorzitter - voren - vorig - vorm - vormen - vorming - vraag - vragen - vrede - vreemd - vreemde - vreselijk - vreugde - vrezen - vriend - vriendelijk - vriendin - vrij - vrijheid - vrijwel - vroeg - vroeger - vrolijk - vrouw - vrouwelijk - vrucht - vullen - vuur -
-
+    vegen
+    veilig
+    veld
+    velen
+    vent
+    veranderen
+    verandering
+    verantwoordelijk
+    verantwoordelijkheid
+    verbaasd
+    verband
+    verbazen
+    verbazing
+    verbergen
+    verbeteren
+    verbieden
+    verbinden
+    verbinding
+    verdedigen
+    verdelen
+    verder
+    verdienen
+    verdieping
+    verdriet
+    verdwijnen
+    vereisen
+    verenigen
+    vereniging
+    vergadering
+    vergelijken
+    vergelijking
+    vergeten
+    verhaal
+    verhouding
+    verkeerd
+    verkeren
+    verklaren
+    verklaring
+    verkopen
+    verkrijgen
+    verlangen
+    verlaten
+    verleden
+    verlenen
+    verlies
+    verliezen
+    verlopen
+    verloren
+    vermelden
+    vermijden
+    verminderen
+    vermoedelijk
+    vermoeden
+    vermogen
+    vermoorden
+    vernietigen
+    veronderstellen
+    veroorzaken
+    verrichten
+    verschaffen
+    verscheidene
+    verschijnen
+    verschijnsel
+    verschil
+    verschillen
+    verschillend
+    verschillende
+    verschrikkelijk
+    verslag
+    verspreiden
+    verstaan
+    verstand
+    verstandig
+    versterken
+    verte
+    vertegenwoordigen
+    vertellen
+    vertonen
+    vertrek
+    vertrekken
+    vertrouwen
+    vervangen
+    vervelen
+    vervolgen
+    vervolgens
+    vervullen
+    verwachten
+    verwachting
+    verwerken
+    verwerven
+    verwijderen
+    verwijzen
+    verzamelen
+    verzet
+    verzoek
+    vestigen
+    vier
+    vijand
+    vijf
+    vinden
+    vinger
+    vis
+    visie
+    vlak
+    vlees
+    vliegen
+    vliegtuig
+    vloer
+    vlucht
+    vluchten
+    vlug
+    vochtig
+    voedsel
+    voegen
+    voelen
+    voeren
+    voet
+    vogel
+    vol
+    voldoen
+    voldoende
+    volgen
+    volgend
+    volgens
+    volk
+    volkomen
+    volledig
+    volstrekt
+    volwassen
+    vooral
+    voorbeeld
+    voorbereiden
+    voorbij
+    voordat
+    voordeel
+    voordoen
+    voorhoofd
+    voorkeur
+    voorkomen
+    voorlopig
+    voornaam
+    voornamelijk
+    voorschijn
+    voorstel
+    voorstellen
+    voorstelling
+    voort
+    voortdurend
+    voorts
+    vooruit
+    voorwaarde
+    voorwerp
+    voorzichtig
+    voorzien
+    voorzitter
+    voren
+    vorig
+    vorm
+    vormen
+    vorming
+    vraag
+    vragen
+    vrede
+    vreemd
+    vreemde
+    vreselijk
+    vreugde
+    vrezen
+    vriend
+    vriendelijk
+    vriendin
+    vrij
+    vrijheid
+    vrijwel
+    vroeg
+    vroeger
+    vrolijk
+    vrouw
+    vrouwelijk
+    vrucht
+    vullen
+    vuur
+    
     waar
     waard
     waarde
@@ -1384,8 +1745,46 @@ const getWordList = () => {
     wens
     wensen
     wereld
-    wereldoorlog - werk - werkelijk - werkelijkheid - werken - werking - werknemer - werpen - westen - westers - wet - weten - weten - wetenschap - wetenschappelijk - wezen - wezen - wie - wiens - wij - wijd - wijn - wijze - wijzen - wil - wild - wilde - willen - wind - winkel - winnen - winst - winter - wisselen - wit - woede - wolk - wonder - wonen - woning - woord - worden - wrijven -
-
+    wereldoorlog
+    werk
+    werkelijk
+    werkelijkheid
+    werken
+    werking
+    werknemer
+    werpen
+    westen
+    westers
+    wet
+    weten
+    wetenschap
+    wetenschappelijk
+    wezen
+    wiens
+    wijd
+    wijn
+    wijze
+    wijzen
+    wil
+    wild
+    wilde
+    willen
+    wind
+    winkel
+    winnen
+    winst
+    winter
+    wisselen
+    wit
+    woede
+    wolk
+    wonder
+    wonen
+    woning
+    woord
+    worden
+    wrijven
+    
     zaak
     zaal
     zacht
